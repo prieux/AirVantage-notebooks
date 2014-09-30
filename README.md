@@ -3,6 +3,6 @@ AirVantage-notebooks
 
 IPython notebooks as tutorials for interfacing with AirVantage API
 
-Requires python 3, ipython
+Requires python, ipython
 
-Also requires the following python libraries: urllib3, json, pandas, matplotlib
+Also requires the following python libraries: requests, json, pandas, matplotlib
